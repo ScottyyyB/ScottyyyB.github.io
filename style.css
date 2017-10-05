@@ -1,4 +1,25 @@
-h1 {
-  color: #0066ff;
-  
+* {
+  margin: 0;
+  paddding: 0;
 }
+
+.nav {
+  width: 100%;
+  padding: 15px 0;
+  text-align: center;
+
+}
+
+.navB li {
+  font-family: Arial;
+  padding: 5px 25px;
+  list-style: none;
+  display: inline-block;
+  color: gold;
+}
+
+ a.navB:hover {
+   border: 2px solid black;
+   font-weight: bold;
+   background: green;
+ }
