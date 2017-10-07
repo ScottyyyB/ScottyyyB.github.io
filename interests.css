@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  height: 100%;
+
+}
+
+.container {
+  background: rgb(12, 137, 191);
+  height: 100%;
+  border-left: 5px solid orange;
+  border-right: 5px solid orange;
+
+}
+
+.header-text {
+ color: #FFF;
+ text-align: center;
+ margin: 0 auto;
+width: 25%;
+ position: relative;
+ top: 165px;
+
+
+}
+
+.header-text h1 {
+  font-size: 45px;
+  letter-spacing: 2px;
+  font-family: 'Anton', sans-serif;
+
+}
+
+
+.nav {
+
+  width: 100%;
+  position: fixed;
+  text-align: center;
+
+  border-bottom: 1px solid lightgray;
+
+}
+
+.navB li{
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-family: Arial;
+  padding: 20px 20px;
+  display: inline-block;
+  color: #FFF;
+}
+
+
+
+.navB:hover {
+   padding: 5px 1px;
+   border-bottom: 2px solid orange;
+   border-width: medium;
+   font-weight: bold;
+
+ }
+
+ .value-props {
+
+     display: flex;
+     flex-wrap: wrap;
+     margin: 40px auto;
+     width: 90%;
+
+
+
+ }
+
+ .prop {
+    position: relative;
+    top: 400px;
+    width: 30%;
+    border-radius: 10px;
+    margin: auto;
+    padding: 0px 0;
+    position: relative;
+    color: #FFF;
+    text-align: center;
+
+ }
+
+ .prop h2 {
+   position: relative;
+   bottom: 150px;
+   border-bottom: 5px solid orange;
+   width: 35%;
+   margin: auto;
+   text-align: center;
+   letter-spacing: 1px;
+   position: relative;
+   padding-bottom: 15px;
+
+ }
+
+.prop p {
+  position: relative;
+  bottom: 120px;
+  padding-right: 30px;
+  line-height: 1.2em;
+  letter-spacing: 0.7px;
+
+}
+
+
+
+
+.prop img {
+
+  background: gray;
+  border: 2px solid orange;
+  border-radius: 100%;
+  padding: 2px 5px;
+  position: relative;
+  bottom: 200px;
+
+
+
+}
+
+.
