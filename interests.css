@@ -22,13 +22,13 @@ body, html {
  margin: 0 auto;
 width: 25%;
  position: relative;
- top: 165px;
+ top: 155px;
 
 
 }
 
 .header-text h1 {
-  font-size: 45px;
+  font-size: 50px;
   letter-spacing: 2px;
   font-family: 'Anton', sans-serif;
 
@@ -115,10 +115,10 @@ width: 25%;
 
 .prop img {
 
-  background: gray;
+
   border: 2px solid orange;
   border-radius: 100%;
-  padding: 2px 5px;
+
   position: relative;
   bottom: 200px;
 
