@@ -23,13 +23,13 @@ body, html {
  margin: 0 auto;
 width: 25%;
  position: relative;
- top: 165px;
+ top: 150px;
 
 
 }
 
 .header-text h1 {
-  font-size: 45px;
+  font-size: 55px;
   letter-spacing: 2px;
   font-family: 'Anton', sans-serif;
 
@@ -90,6 +90,8 @@ width: 25%;
  }
 
  .prop h2 {
+   font-family: "PT Mono", sans-serif;
+   font-size: 30px;
    position: relative;
    bottom: 150px;
    border-bottom: 5px solid orange;
@@ -103,6 +105,8 @@ width: 25%;
  }
 
 .prop p {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 15px;
   position: relative;
   bottom: 120px;
   padding-right: 30px;
